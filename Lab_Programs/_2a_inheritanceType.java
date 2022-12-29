@@ -65,9 +65,9 @@ class B extends A {
 // C class inherited from B
 // Displays Public members of A
 class C extends B {
-    public void getMembers() {
-        System.out.println("Public members: " + x + ", " + y);
-    }
+    // public void getMembers() {
+    //     System.out.println("Public members: " + x + ", " + y);
+    // }
 
     public C(int p, int q, float u, float v, int x, int y) {
         super(p, q, u, v, x, y);
