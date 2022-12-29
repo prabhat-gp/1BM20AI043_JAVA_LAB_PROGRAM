@@ -133,6 +133,10 @@ class Number {
                     System.out.print(r + " ");
             }
         }
+
+
+
+        
     }
 }
 

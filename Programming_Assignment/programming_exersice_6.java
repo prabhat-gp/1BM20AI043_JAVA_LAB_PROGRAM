@@ -7,5 +7,8 @@ public class programming_exersice_6 {
         Emp e = new Emp("ANU", "23", "Female", 12000);
         e.calculate();
         e.display();
+
+
+        
     }
 }
